@@ -1,0 +1,15 @@
+h1
+{
+  font-family: 'Anton', sans-serif;
+  margin: 4px;
+  text-align: center;
+  color: #2ba4f8;
+}
+
+img {
+  margin: 1px;
+  height: 256px;
+  width: auto;
+  display:block;
+  margin:0 auto;
+}
